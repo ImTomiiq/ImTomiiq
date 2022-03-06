@@ -12,4 +12,4 @@
 - 🌱&nbsp;&nbsp; Learning all about **Web development**
 - 💬&nbsp;&nbsp; Ping me about **Web development**, **Minecraft Servers**
 - ⚡️&nbsp;&nbsp; Fun fact: I'm a big fan of cats 🐱‍💻
-- 📫&nbsp;&nbsp; How to reach me via email (imtomiiq@gmail.com)
+- 📫&nbsp;&nbsp; How to reach me: Via email (imtomiiq@gmail.com)

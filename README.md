@@ -1,5 +1,5 @@
 <div align="center">
-  <h1> Hi there <img src="https://github.com/bobbyiliev/bobbyiliev/blob/main/Hi.gif" width="30px"> <br>My name is Bobby Iliev</h1>
+  <h1> Hi there <img src="https://github.com/bobbyiliev/bobbyiliev/blob/main/Hi.gif" width="30px"> <br>My name is Tomáš Sucháň</h1>
 </div>
 
 ---
@@ -9,7 +9,7 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/bobbyiliev_?label=People%20following%20me%20on%20Twitter&style=social)](https://twitter.com/intent/follow?screen_name=bobbyiliev_)
 [![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCQWmdHTeAO0UvaNqve9udRw?label=Total%20views%20on%20my%20channel&style=social)](https://www.youtube.com/channel/UCQWmdHTeAO0UvaNqve9udRw?sub_confirmation=1)
 
-#### I'm a Linux DevOps Engineer and a Developer Advocate living in Sofia, Bulgaria.
+#### I'm new to Frontend development but still learning!
 
 ##### BIO
 
@@ -19,14 +19,6 @@
 - 💬&nbsp;&nbsp; Ping me about **linux**, **bash**, **laravel**, **development**, **devops**
 - ⚡️&nbsp;&nbsp; Fun fact: I'm a big fan of cats 🐱‍💻
 - 📫&nbsp;&nbsp; How to reach me via [email], [twitter], [devdojo], [dev.to] or [linkedin].
-
-##### BOOKS
-
-- 📖&nbsp;&nbsp; **[Introduction to Bash Scripting](https://github.com/bobbyiliev/introduction-to-bash-scripting)** opensource eBook
-- 📗&nbsp;&nbsp; **[Introduction to Git and GitHub](https://github.com/bobbyiliev/introduction-to-git-and-github-ebook)** opensource eBook
-- 📕&nbsp;&nbsp; **[Introduction to SQL](https://github.com/bobbyiliev/introduction-to-sql)** opensource eBook
-- 🐳&nbsp;&nbsp; **[Introduction to Docker](https://github.com/bobbyiliev/introduction-to-docker-ebook)** opensource eBook
-- 💡&nbsp;&nbsp; **[Laravel tips and tricks](https://github.com/bobbyiliev/laravel-tips-and-tricks-ebook)** opensource eBook
 
 ### RECENT DEVDOJO POST
 

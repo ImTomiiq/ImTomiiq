@@ -8,7 +8,7 @@
 
 ##### BIO
 
-- ⚙️&nbsp;&nbsp; I use daily: `.html`, `.css`, `.js`
+- ⚙️&nbsp;&nbsp; I use daily: `.html`, `.css`, `.scss/.sass`, `.js`
 - 🌱&nbsp;&nbsp; Learning all about **Web development**
 - 💬&nbsp;&nbsp; Ping me about **Web development**, **Minecraft Servers**
 - ⚡️&nbsp;&nbsp; Fun fact: I'm a big fan of cats 🐱‍💻
